@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SMATHS-Kids Online Learning Website</title>
+    <style>
+      body {
+        background-color: navy;
+        color: white;
+        font-family: Arial, sans-serif;
+      }
+      header {
+        background-color: orange;
+        padding: 20px;
+        text-align: center;
+      }
+      nav {
+        background-color: wine;
+        padding: 10px;
+      }
+      nav ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+      }
+      nav li {
+        float: left;
+      }
+      nav li a {
+        display: block;
+        color: white;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+      }
+      nav li a:hover {
+        background-color: white;
+        color: navy;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1>SMATHS-Kids</h1>
+      <p>Online Learning for Kids</p>
+    </header>
+    <nav>
+      <ul>
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Courses</a></li>
+        <li><a href="#">Games</a></li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Contact Us</a></li>
+      </ul>
+    </nav>
+    <main>
+      <h2>Welcome to SMATHS-Kids</h2>
+      <p>Our website offers a range of online learning courses and games for kids of all ages. Learn math, science, and other subjects in a fun and interactive way.</p>
+    </main>
+    <footer>
+      <p>&copy; 2023 SMATHS-Kids. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
